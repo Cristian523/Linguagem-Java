@@ -1,0 +1,1 @@
+Tendo o JDK instalado, basta executar o script P4nX.bat no Windows ou P4nX.sh no Linux
