@@ -1,0 +1,1 @@
+Tendo o JDK instalado, basta rodar o script P3nX.bat no Windows ou P3nX.sh no Linux
